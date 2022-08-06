@@ -13,7 +13,7 @@ Tudo ok, sua aplicação estara em execução!
 
 <hr>
 
-Package.json (necessitar tere esse comando)
+Package.json (necessita ter esse comando)
 
 ```
 "scripts": {
