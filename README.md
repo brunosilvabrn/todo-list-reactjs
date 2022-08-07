@@ -7,7 +7,7 @@ Execute os seguintes comandos.
 
 ### 2º `npm run server`
 
-### 3º `npm run start`
+### 3º `npm start`
 
 Tudo ok, sua aplicação estara em execução!
 
